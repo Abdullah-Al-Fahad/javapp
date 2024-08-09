@@ -26,5 +26,5 @@ This project is a course registration system that allows students to register fo
 - The system manages data by reading and writing files.
 - It manipulates strings provided by the user, ensuring efficient and secure data handling.
 
-## File Structure
+
 
